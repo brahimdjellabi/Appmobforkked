@@ -11,6 +11,6 @@ public class fg extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fg);
-        Toast.makeText(this, "63636333661987", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "last", Toast.LENGTH_SHORT).show();
     }
 }
